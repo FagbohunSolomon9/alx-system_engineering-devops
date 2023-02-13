@@ -18,3 +18,4 @@ whats next
 I hate bins
 Letters only please
 A to Z
+Create a script that removes all letters c and C from input
