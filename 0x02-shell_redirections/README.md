@@ -12,3 +12,4 @@ a script that duplicates the last line of the file iacta
 Don't just count your directories, make your directories count
 a script that displays the 10 newest files in the current directory
 Being unique is better than being perfect
+Display lines containing the pattern “root” from the file /etc/passwd
