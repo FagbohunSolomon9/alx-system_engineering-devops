@@ -16,3 +16,4 @@ Display lines containing the pattern “root” from the file /etc/passwd
 Count that word
 whats next
 I hate bins
+Letters only please
