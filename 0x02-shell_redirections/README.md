@@ -20,3 +20,4 @@ Letters only please
 A to Z
 Create a script that removes all letters c and C from input
  a script that reverse its input
+DJ Cut Killer
