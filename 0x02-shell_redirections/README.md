@@ -17,3 +17,4 @@ Count that word
 whats next
 I hate bins
 Letters only please
+A to Z
