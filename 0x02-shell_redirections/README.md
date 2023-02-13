@@ -10,3 +10,4 @@ It is a good file that cuts iron without making a noise
 a script that duplicates the last line of the file iacta
  No more javascript
 Don't just count your directories, make your directories count
+a script that displays the 10 newest files in the current directory
