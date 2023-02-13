@@ -9,3 +9,4 @@ It is a good file that cuts iron without making a noise
  Save current state of directory
 a script that duplicates the last line of the file iacta
  No more javascript
+Don't just count your directories, make your directories count
