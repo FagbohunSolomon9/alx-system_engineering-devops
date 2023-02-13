@@ -11,3 +11,4 @@ a script that duplicates the last line of the file iacta
  No more javascript
 Don't just count your directories, make your directories count
 a script that displays the 10 newest files in the current directory
+Being unique is better than being perfect
