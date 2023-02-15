@@ -10,3 +10,4 @@ Every addition to true knowledge is an addition to human power
 a script that prints the result of POWER divided by DIVIDE, followed by a new line
 Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
 a script that converts a number from base 2 to base 10
+a script that prints all possible combinations of two letters, except oo
